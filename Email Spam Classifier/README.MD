@@ -47,6 +47,11 @@ The following machine learning models were trained and evaluated:
 ---
 
 ## 📊 Model Evaluation
+## 📊 Model Performance Comparison
+
+The chart below shows Precision, Recall, and F1 Score for all models:
+
+![Performance Chart](performance_chart.png)
 
 ### 🔹 Naive Bayes
 
