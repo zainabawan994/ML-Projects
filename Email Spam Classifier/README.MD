@@ -51,8 +51,7 @@ The following machine learning models were trained and evaluated:
 
 The chart below shows Precision, Recall, and F1 Score for all models:
 
-![Performance Chart](performance_chart.png)
-
+![Performance Chart](Email%20Spam%20Classifier/performance%20chart.png)
 ### 🔹 Naive Bayes
 
 * Precision: 1.00
